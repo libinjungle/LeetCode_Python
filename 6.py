@@ -38,15 +38,18 @@ class solution(object):
     strList = [''] * numRows
     idx, step = 0, 1
 
+    # string is iterable
     for c in s:
       strList[idx] += c
+      # in order
       if idx == 0:
         step = 1
+      # reverse order
       elif idx == numRows - 1:
         step = -1
 
       idx += step
-
+    # Combine lists into one list.
     return ''.join(strList)
 
 
