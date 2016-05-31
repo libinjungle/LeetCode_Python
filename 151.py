@@ -21,6 +21,7 @@ class solution2(object):
   ''' join method is used for string. This adds space to each string element.
   '''
   def reverse_words(self, s):
+    # [::-1] if to reverse the words list
     return " ".join(s.strip().split()[::-1])
 
 if __name__ == '__main__':

@@ -1,5 +1,7 @@
 class solution(object):
   '''
+  Given a string, find the length of the longest substring without repeating characters.
+
   go over the string one character by one character.
   use a hashtable for parsed characters and indexes. When parsing a new char,
   check if this char is already in hashtable. If yes, update the starting index for

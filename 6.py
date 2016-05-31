@@ -29,12 +29,13 @@ class solution(object):
 
   def zigzag2(self, s, numRows):
     '''
+    ZigZag Conversion
+
     :param s:
     :param numRows:
     :return:
     '''
-    # create empty string list based on numRows
-
+    # assume numRows = 10, this create a list that has 10 empty string.
     strList = [''] * numRows
     idx, step = 0, 1
 
@@ -51,8 +52,6 @@ class solution(object):
       idx += step
     # Combine lists into one list.
     return ''.join(strList)
-
-
 
 if __name__ == '__main__':
   sol = solution()
