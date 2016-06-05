@@ -82,3 +82,5 @@ if __name__ == '__main__':
   codec = Codec()
   str = ['hello ', 'this is bin']
   print codec.decode2(codec.encode2(str))
+
+### OUTPUT ###

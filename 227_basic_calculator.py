@@ -48,3 +48,5 @@ if __name__ == '__main__':
   #print int(-3/float(2))
   print res
 
+### OUTPUT ###
+# 0
