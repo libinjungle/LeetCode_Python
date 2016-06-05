@@ -42,18 +42,3 @@ if __name__ == '__main__':
   chess = Chess(get_factory())
   chess.show_role()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
