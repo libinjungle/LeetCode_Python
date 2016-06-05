@@ -1,4 +1,7 @@
 class Director(object):
+  '''
+  Use builder pattern to construct parking lot.
+  '''
 
   def __init__(self):
     self.builder = None
