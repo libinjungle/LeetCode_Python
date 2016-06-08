@@ -50,7 +50,7 @@ class solution(object):
         step = -1
 
       idx += step
-    # Combine lists into one list.
+    # Combine lists into string.
     return ''.join(strList)
 
 if __name__ == '__main__':
