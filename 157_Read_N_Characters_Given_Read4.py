@@ -22,5 +22,5 @@ class Solution(object):
             for i in range(actualLen):
                 buf[total] = buffer[i]
                 total += 1
-        
+
         return total
