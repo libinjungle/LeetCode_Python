@@ -12,6 +12,7 @@ class Solution(object):
     """
     two passes. first pass to get the candidate. second pass to validate if the candidate is real celebrity
     my solution
+    O(n) and no extra memory.
     :type n: int
     :rtype: int
     """
