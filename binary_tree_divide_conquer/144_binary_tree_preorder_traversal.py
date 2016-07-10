@@ -22,6 +22,31 @@ class Solution(object):
     result += right
     return result
 
+  def preorderTraversal1(self, root):
+    """
+    Iterative solution
+    preorder: add root, left child and right child in order
+    add node's value to result and node to stack while traverse the tree. exhaust left child in DFS way.
+    if left child is null, pop node out of stack and exhaust right children.
+    Time: O(n)
+    Space: O(n)
+    :param root:
+    :return:
+    """
+    result = []
+    if root is None:
+      return result
+    stack = []
+    # if not root block will execute if root is None.
+    while len(stack) != 0 or root is not None:
+      if root is None:
+        root = stack.pop().right
+      else:
+        stack.append(root)
+        result.append(root.val)
+        root = root.left
+    return result
+
 if  __name__ == "__main__":
   sol = Solution()
   root = TreeNode(1)
@@ -29,7 +54,7 @@ if  __name__ == "__main__":
   root.right = TreeNode(3)
   root.left.left = TreeNode(4)
   root.left.right = TreeNode(5)
-  print sol.preorderTraversal(root)
+  print sol.preorderTraversal1(root)
 
 
 
