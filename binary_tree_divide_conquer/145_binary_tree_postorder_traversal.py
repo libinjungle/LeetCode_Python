@@ -43,6 +43,21 @@ class Solution(object):
         root = root.left
     return result
 
+  def postorderTraversal2(self, root):
+    """
+    reverse of preorder of root, right, left
+    :param root:
+    :return:
+    """
+    res, stack = [], [root]
+    while stack:
+      tmp = stack.pop()
+      if tmp:
+        res.append(tmp.val)
+        stack.append(tmp.left)
+        stack.append(tmp.right)
+    return res[::-1]
+
 if __name__ == "__main__":
   sol = Solution()
   root = TreeNode(1)

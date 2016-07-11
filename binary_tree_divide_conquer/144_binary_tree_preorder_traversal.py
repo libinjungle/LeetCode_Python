@@ -47,6 +47,21 @@ class Solution(object):
         root = root.left
     return result
 
+  def preorderTraversal2(self, root):
+    """
+    pseudo-BFS solution. push right and then left child on stack.
+    :param root:
+    :return:
+    """
+    result, stack = [], [root]
+    while stack:
+      tmp = stack.pop()
+      if tmp:
+        result.append(tmp.val)
+        stack.append(tmp.right)
+        stack.append(tmp.left)
+    return result
+
 if  __name__ == "__main__":
   sol = Solution()
   root = TreeNode(1)
@@ -54,7 +69,7 @@ if  __name__ == "__main__":
   root.right = TreeNode(3)
   root.left.left = TreeNode(4)
   root.left.right = TreeNode(5)
-  print sol.preorderTraversal1(root)
+  print sol.preorderTraversal2(root)
 
 
 
