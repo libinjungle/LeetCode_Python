@@ -16,7 +16,8 @@ class Solution(object):
   access them inside a function.
 
   """
-  prev = -sys.maxint+1
+
+  prev = -sys.maxint-1
   firstnode = True
 
   def isValidBST(self, root):
