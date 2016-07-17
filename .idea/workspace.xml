@@ -23,23 +23,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="357_count_numbers_with_unique_digits.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dp/357_count_numbers_with_unique_digits.py">
+      <file leaf-file-name="102_Binary Tree Level Order Traversal.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/binary_tree_divide_conquer/102_Binary Tree Level Order Traversal.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="43" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="355_design_twitter.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/open_questions/355_design_twitter.py">
+      <file leaf-file-name="98_Validate Binary Search Tree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/binary_tree_divide_conquer/98_Validate Binary Search Tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30266345">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.8181818">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#0#29#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -60,8 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/43.py" />
-        <option value="$PROJECT_DIR$/LearnedWhileCoding/22.py" />
         <option value="$PROJECT_DIR$/LearnedWhileCoding/22_sol2.py" />
         <option value="$PROJECT_DIR$/22.py" />
         <option value="$PROJECT_DIR$/71.py" />
@@ -111,11 +109,12 @@
         <option value="$PROJECT_DIR$/dp/dp.py" />
         <option value="$PROJECT_DIR$/dp/357_count_numbers_with_unique_digits.py" />
         <option value="$PROJECT_DIR$/open_questions/355_design_twitter.py" />
+        <option value="$PROJECT_DIR$/binary_tree_divide_conquer/102_Binary Tree Level Order Traversal.py" />
+        <option value="$PROJECT_DIR$/binary_tree_divide_conquer/98_Validate Binary Search Tree.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-24" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="719" />
@@ -145,6 +144,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -163,10 +163,6 @@
               <option name="myItemId" value="LeetCode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="open_questions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -177,10 +173,13 @@
               <option name="myItemId" value="LeetCode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="binary_tree_divide_conquer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,41 +197,7 @@
       <recent name="$PROJECT_DIR$/HashTable" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.355_design_twitter">
-    <configuration default="false" name="145_binary_tree_postorder_traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/binary_tree_divide_conquer" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled1" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binary_tree_divide_conquer/145_binary_tree_postorder_traversal.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="binary_tree_max_path_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/binary_tree_divide_conquer" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled1" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binary_tree_divide_conquer/binary_tree_max_path_sum_from_root.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.98_Validate Binary Search Tree">
     <configuration default="false" name="367_Valid_Perfect_Square" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -280,6 +245,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="untitled1" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/open_questions/355_design_twitter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="102_Binary Tree Level Order Traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/binary_tree_divide_conquer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binary_tree_divide_conquer/102_Binary Tree Level Order Traversal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="98_Validate Binary Search Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/binary_tree_divide_conquer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binary_tree_divide_conquer/98_Validate Binary Search Tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -418,19 +417,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.145_binary_tree_postorder_traversal" />
-      <item index="1" class="java.lang.String" itemvalue="Python.binary_tree_max_path_sum" />
-      <item index="2" class="java.lang.String" itemvalue="Python.367_Valid_Perfect_Square" />
-      <item index="3" class="java.lang.String" itemvalue="Python.dp" />
-      <item index="4" class="java.lang.String" itemvalue="Python.355_design_twitter" />
+      <item index="0" class="java.lang.String" itemvalue="Python.367_Valid_Perfect_Square" />
+      <item index="1" class="java.lang.String" itemvalue="Python.dp" />
+      <item index="2" class="java.lang.String" itemvalue="Python.355_design_twitter" />
+      <item index="3" class="java.lang.String" itemvalue="Python.102_Binary Tree Level Order Traversal" />
+      <item index="4" class="java.lang.String" itemvalue="Python.98_Validate Binary Search Tree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.355_design_twitter" />
-        <item index="1" class="java.lang.String" itemvalue="Python.dp" />
-        <item index="2" class="java.lang.String" itemvalue="Python.367_Valid_Perfect_Square" />
-        <item index="3" class="java.lang.String" itemvalue="Python.binary_tree_max_path_sum" />
-        <item index="4" class="java.lang.String" itemvalue="Python.145_binary_tree_postorder_traversal" />
+        <item index="0" class="java.lang.String" itemvalue="Python.98_Validate Binary Search Tree" />
+        <item index="1" class="java.lang.String" itemvalue="Python.102_Binary Tree Level Order Traversal" />
+        <item index="2" class="java.lang.String" itemvalue="Python.355_design_twitter" />
+        <item index="3" class="java.lang.String" itemvalue="Python.dp" />
+        <item index="4" class="java.lang.String" itemvalue="Python.367_Valid_Perfect_Square" />
       </list>
     </recent_temporary>
   </component>
@@ -448,10 +447,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-24" y="23" width="1280" height="719" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="719" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16997617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28435266" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -495,20 +494,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LearnedWhileCoding/22.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3294509">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnedWhileCoding/91.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.029950082">
-          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LearnedWhileCoding/abstract_factory.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8202995">
@@ -816,7 +801,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -828,36 +812,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/binary_tree_divide_conquer/94_binary_tree_inorder_traversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.83295196">
-          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/String/356_line_reflection.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.1272728">
           <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dp/357_count_numbers_with_unique_digits.py">
+    <entry file="file://$PROJECT_DIR$/binary_tree_divide_conquer/94_binary_tree_inorder_traversal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.8340909">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="55" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/open_questions/355_design_twitter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30266345">
+        <state vertical-scroll-proportion="0.42954546">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dp/357_count_numbers_with_unique_digits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.04090909">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_tree_divide_conquer/102_Binary Tree Level Order Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="43" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_tree_divide_conquer/98_Validate Binary Search Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8181818">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
