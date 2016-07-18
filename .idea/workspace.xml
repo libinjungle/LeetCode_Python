@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac022e0b-2d04-44d1-99c7-8636c8e282ef" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/binary_tree_divide_conquer/98_Validate Binary Search Tree.py" afterPath="$PROJECT_DIR$/binary_tree_divide_conquer/98_Validate Binary Search Tree.py" />
-    </list>
+    <list default="true" id="ac022e0b-2d04-44d1-99c7-8636c8e282ef" name="Default" comment="" />
     <ignored path="untitled1.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,11 +31,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="search_range_in_BST.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="search_range_in_BST.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/binary_tree_divide_conquer/search_range_in_BST.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.1454545">
-              <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="37" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="173_Binary Search Tree Iterator.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/binary_tree_divide_conquer/173_Binary Search Tree Iterator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.1">
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -70,7 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/22.py" />
         <option value="$PROJECT_DIR$/71.py" />
         <option value="$PROJECT_DIR$/LearnedWhileCoding/91.py" />
         <option value="$PROJECT_DIR$/93.py" />
@@ -121,12 +128,13 @@
         <option value="$PROJECT_DIR$/binary_tree_divide_conquer/102_Binary Tree Level Order Traversal.py" />
         <option value="$PROJECT_DIR$/binary_tree_divide_conquer/98_Validate Binary Search Tree.py" />
         <option value="$PROJECT_DIR$/binary_tree_divide_conquer/search_range_in_BST.py" />
+        <option value="$PROJECT_DIR$/binary_tree_divide_conquer/173_Binary Search Tree Iterator.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-6" />
-    <option name="y" value="23" />
+    <option name="x" value="114" />
+    <option name="y" value="25" />
     <option name="width" value="1280" />
     <option name="height" value="719" />
   </component>
@@ -208,24 +216,7 @@
       <recent name="$PROJECT_DIR$/HashTable" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.search_range_in_BST">
-    <configuration default="false" name="dp" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dp" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled1" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dp/357_count_numbers_with_unique_digits.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.173_Binary Search Tree Iterator">
     <configuration default="false" name="355_design_twitter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -290,6 +281,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="untitled1" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binary_tree_divide_conquer/search_range_in_BST.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="173_Binary Search Tree Iterator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/binary_tree_divide_conquer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binary_tree_divide_conquer/173_Binary Search Tree Iterator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -428,19 +436,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.dp" />
-      <item index="1" class="java.lang.String" itemvalue="Python.355_design_twitter" />
-      <item index="2" class="java.lang.String" itemvalue="Python.102_Binary Tree Level Order Traversal" />
-      <item index="3" class="java.lang.String" itemvalue="Python.98_Validate Binary Search Tree" />
-      <item index="4" class="java.lang.String" itemvalue="Python.search_range_in_BST" />
+      <item index="0" class="java.lang.String" itemvalue="Python.355_design_twitter" />
+      <item index="1" class="java.lang.String" itemvalue="Python.102_Binary Tree Level Order Traversal" />
+      <item index="2" class="java.lang.String" itemvalue="Python.98_Validate Binary Search Tree" />
+      <item index="3" class="java.lang.String" itemvalue="Python.search_range_in_BST" />
+      <item index="4" class="java.lang.String" itemvalue="Python.173_Binary Search Tree Iterator" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.search_range_in_BST" />
-        <item index="1" class="java.lang.String" itemvalue="Python.98_Validate Binary Search Tree" />
-        <item index="2" class="java.lang.String" itemvalue="Python.102_Binary Tree Level Order Traversal" />
-        <item index="3" class="java.lang.String" itemvalue="Python.355_design_twitter" />
-        <item index="4" class="java.lang.String" itemvalue="Python.dp" />
+        <item index="0" class="java.lang.String" itemvalue="Python.173_Binary Search Tree Iterator" />
+        <item index="1" class="java.lang.String" itemvalue="Python.search_range_in_BST" />
+        <item index="2" class="java.lang.String" itemvalue="Python.98_Validate Binary Search Tree" />
+        <item index="3" class="java.lang.String" itemvalue="Python.102_Binary Tree Level Order Traversal" />
+        <item index="4" class="java.lang.String" itemvalue="Python.355_design_twitter" />
       </list>
     </recent_temporary>
   </component>
@@ -458,15 +466,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="23" width="1280" height="719" extended-state="6" />
+    <frame x="114" y="25" width="1280" height="719" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.111199364" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.04845115" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25596184" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25596184" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -505,13 +513,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LearnedWhileCoding/builder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LearnedWhileCoding/StringListToIntList.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.032432433">
@@ -869,8 +870,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/binary_tree_divide_conquer/search_range_in_BST.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1454545">
-          <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="37" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_tree_divide_conquer/173_Binary Search Tree Iterator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding />
         </state>
       </provider>
