@@ -9,6 +9,7 @@ class Solution(object):
     :type costs: List[List[int]]
     :rtype: int
     """
+
     lastred = costs[0][0]
     lastblue = costs[0][1]
     lastgreen = costs[0][2]
