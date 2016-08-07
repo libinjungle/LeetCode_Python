@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac022e0b-2d04-44d1-99c7-8636c8e282ef" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="ac022e0b-2d04-44d1-99c7-8636c8e282ef" name="Default" comment="" />
     <ignored path="untitled1.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="115_distinct_subsequences.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="115_distinct_subsequences.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dp/115_distinct_subsequences.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7410072">
-              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="40" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="97_interleaving_string.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dp/97_interleaving_string.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -48,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/6.py" />
         <option value="$PROJECT_DIR$/157_Read_N_Characters_Given_Read4.py" />
         <option value="$PROJECT_DIR$/345_Reverse _owels_of_a_String.py" />
         <option value="$PROJECT_DIR$/344.py" />
@@ -99,14 +106,15 @@
         <option value="$PROJECT_DIR$/dp/longest_common_subsequence.py" />
         <option value="$PROJECT_DIR$/dp/72_edit_distance.py" />
         <option value="$PROJECT_DIR$/dp/115_distinct_subsequences.py" />
+        <option value="$PROJECT_DIR$/dp/97_interleaving_string.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="103" />
-    <option name="y" value="23" />
+    <option name="x" value="432" />
+    <option name="y" value="67" />
     <option name="width" value="1280" />
-    <option name="height" value="666" />
+    <option name="height" value="603" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -186,24 +194,7 @@
       <recent name="$PROJECT_DIR$/HashTable" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.115_distinct_subsequences">
-    <configuration default="false" name="132_palindrome_partitioning_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dp" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled1" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dp/132_palindrome_partitioning_II.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.97_interleaving_string">
     <configuration default="false" name="139_word_break" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -268,6 +259,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="untitled1" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dp/115_distinct_subsequences.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="97_interleaving_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dp/97_interleaving_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -406,19 +414,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.132_palindrome_partitioning_II" />
-      <item index="1" class="java.lang.String" itemvalue="Python.139_word_break" />
-      <item index="2" class="java.lang.String" itemvalue="Python.longest_common_subsequence" />
-      <item index="3" class="java.lang.String" itemvalue="Python.72_edit_distance" />
-      <item index="4" class="java.lang.String" itemvalue="Python.115_distinct_subsequences" />
+      <item index="0" class="java.lang.String" itemvalue="Python.139_word_break" />
+      <item index="1" class="java.lang.String" itemvalue="Python.longest_common_subsequence" />
+      <item index="2" class="java.lang.String" itemvalue="Python.72_edit_distance" />
+      <item index="3" class="java.lang.String" itemvalue="Python.115_distinct_subsequences" />
+      <item index="4" class="java.lang.String" itemvalue="Python.97_interleaving_string" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.115_distinct_subsequences" />
-        <item index="1" class="java.lang.String" itemvalue="Python.72_edit_distance" />
-        <item index="2" class="java.lang.String" itemvalue="Python.longest_common_subsequence" />
-        <item index="3" class="java.lang.String" itemvalue="Python.139_word_break" />
-        <item index="4" class="java.lang.String" itemvalue="Python.132_palindrome_partitioning_II" />
+        <item index="0" class="java.lang.String" itemvalue="Python.97_interleaving_string" />
+        <item index="1" class="java.lang.String" itemvalue="Python.115_distinct_subsequences" />
+        <item index="2" class="java.lang.String" itemvalue="Python.72_edit_distance" />
+        <item index="3" class="java.lang.String" itemvalue="Python.longest_common_subsequence" />
+        <item index="4" class="java.lang.String" itemvalue="Python.139_word_break" />
       </list>
     </recent_temporary>
   </component>
@@ -436,7 +444,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="103" y="23" width="1280" height="666" extended-state="1" />
+    <frame x="432" y="67" width="1280" height="603" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -444,11 +452,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22473867" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3111546" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31948882" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5069686" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -478,18 +486,11 @@
           <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="24" />
+      <option name="time" value="25" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/String/263_ugly_number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.11751663">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/String/246_strobogrammatic_number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -839,8 +840,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dp/115_distinct_subsequences.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7410072">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="40" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dp/97_interleaving_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="18" />
           <folding />
         </state>
       </provider>
