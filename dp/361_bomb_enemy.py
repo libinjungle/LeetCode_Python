@@ -1,6 +1,8 @@
 class Solution(object):
   def maxKilledEnemies(self, grid):
     """
+    DP 的核心思想在于memorization, 而不是构造dp方程.
+
     Traverse grid and record row_enemy_num and col_enemy_num before hit to wall,
     Because some cell don't need to recalculate row_enemy_num and col_enemy_num, this is
     memorization in DP. only reset row_enemy_num and col_enemy_num when row_index, col_index == 0 or (grid[i-1][j]
@@ -9,6 +11,7 @@ class Solution(object):
     :type grid: List[List[str]]
     :rtype: int
     """
+
     m = len(grid)
     n = len(grid[0]) if m > 0 else 0
     result = 0
