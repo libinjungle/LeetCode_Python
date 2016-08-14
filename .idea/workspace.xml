@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac022e0b-2d04-44d1-99c7-8636c8e282ef" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dp/361_bomb_enemy.py" afterPath="$PROJECT_DIR$/dp/361_bomb_enemy.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/List/237_delete_node_in_linked_list.py" afterPath="$PROJECT_DIR$/List/237_delete_node_in_linked_list.py" />
     </list>
     <ignored path="untitled1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,8 +36,8 @@
       <file leaf-file-name="237_delete_node_in_linked_list.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/List/237_delete_node_in_linked_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.69104207">
-              <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.13162705">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -123,8 +123,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="138" />
-    <option name="y" value="528" />
+    <option name="x" value="112" />
+    <option name="y" value="67" />
     <option name="width" value="1280" />
     <option name="height" value="665" />
   </component>
@@ -456,7 +456,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="138" y="528" width="1280" height="665" extended-state="0" />
+    <frame x="112" y="67" width="1280" height="665" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21683876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -863,8 +863,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/List/237_delete_node_in_linked_list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.69104207">
-          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.13162705">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>

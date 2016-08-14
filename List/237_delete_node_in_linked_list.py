@@ -5,6 +5,7 @@
 # the linked list should become 1 -> 2 -> 4 after calling your function.
 
 # Definition for singly-linked list.
+
 class ListNode(object):
     def __init__(self, x):
         self.val = x
