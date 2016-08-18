@@ -89,6 +89,55 @@ class Solution(object):
     return dummy.next
 
 
+  def reverseBetween2(self, head, m, n):
+    """
+    record preM, M, N and postN because after the reverse, pointer of these four nodes will
+    change.
+    :param head:
+    :param m:
+    :param n:
+    :return:
+    """
+    if not head:
+      return None
+    if m == n:
+      return head
+
+    dummy = ListNode(-1)
+    dummy.next = head
+    cur = dummy
+    # mark the m-1 node
+    i = 1
+    while i < m:
+      if not cur:
+        return None
+      cur = cur.next
+      i += 1
+
+    preM = cur
+    # mark M node
+    M = cur.next
+    if M.next is None:
+      return None
+    N = M
+    postN = M.next
+
+    prev = cur
+    j = 0
+    # move n - m steps
+    while j < n - m and postN:
+      nextnode = postN.next
+      postN.next = N
+      N = postN
+      postN = nextnode
+      j += 1
+    # change pointers.
+    preM.next = N
+    M.next = postN
+
+    return dummy.next
+
+
 if __name__ == "__main__":
   sol = Solution()
   head = ListNode(1)
@@ -96,7 +145,7 @@ if __name__ == "__main__":
   head.next.next = ListNode(3)
   head.next.next.next = ListNode(4)
   head.next.next.next.next = ListNode(5)
-  node = sol.reverseBetween(head, 2, 5)
+  node = sol.reverseBetween2(head, 2, 4)
   while node:
     print(node.val)
     node = node.next

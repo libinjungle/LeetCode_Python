@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac022e0b-2d04-44d1-99c7-8636c8e282ef" name="Default" comment="" />
+    <list default="true" id="ac022e0b-2d04-44d1-99c7-8636c8e282ef" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/List/92_reverse_linked_list_II.py" afterPath="$PROJECT_DIR$/List/92_reverse_linked_list_II.py" />
+    </list>
     <ignored path="untitled1.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,11 +63,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="92_reverse_linked_list_II.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="92_reverse_linked_list_II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/List/92_reverse_linked_list_II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15734266">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="140" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="146" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="86_partition_list.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/List/86_partition_list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7184035">
+              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -86,7 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Array/245_shortest_word_distanceIII.py" />
         <option value="$PROJECT_DIR$/Array/289_game_of_life.py" />
         <option value="$PROJECT_DIR$/Array/259_3sum_smaller.py" />
         <option value="$PROJECT_DIR$/Array/277_find_the_celebrity.py" />
@@ -137,13 +148,14 @@
         <option value="$PROJECT_DIR$/List/237_delete_node_in_linked_list.py" />
         <option value="$PROJECT_DIR$/List/206_reverse_linked_list.py" />
         <option value="$PROJECT_DIR$/List/92_reverse_linked_list_II.py" />
+        <option value="$PROJECT_DIR$/List/86_partition_list.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-6" />
-    <option name="y" value="23" />
-    <option name="width" value="1540" />
+    <option name="x" value="56" />
+    <option name="y" value="28" />
+    <option name="width" value="1176" />
     <option name="height" value="719" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -224,24 +236,7 @@
       <recent name="$PROJECT_DIR$/HashTable" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.92_reverse_linked_list_II">
-    <configuration default="false" name="121_best_time_sell_buy_stock" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dp" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled1" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dp/121_best_time_sell_buy_stock.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.86_partition_list">
     <configuration default="false" name="123_best_time_buy_sell_stock_III" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -306,6 +301,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="untitled1" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List/92_reverse_linked_list_II.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="86_partition_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List/86_partition_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -444,19 +456,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.121_best_time_sell_buy_stock" />
-      <item index="1" class="java.lang.String" itemvalue="Python.123_best_time_buy_sell_stock_III" />
-      <item index="2" class="java.lang.String" itemvalue="Python.361_bomb_enemy" />
-      <item index="3" class="java.lang.String" itemvalue="Python.24_swap_nodes_in_pair" />
-      <item index="4" class="java.lang.String" itemvalue="Python.92_reverse_linked_list_II" />
+      <item index="0" class="java.lang.String" itemvalue="Python.123_best_time_buy_sell_stock_III" />
+      <item index="1" class="java.lang.String" itemvalue="Python.361_bomb_enemy" />
+      <item index="2" class="java.lang.String" itemvalue="Python.24_swap_nodes_in_pair" />
+      <item index="3" class="java.lang.String" itemvalue="Python.92_reverse_linked_list_II" />
+      <item index="4" class="java.lang.String" itemvalue="Python.86_partition_list" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.92_reverse_linked_list_II" />
-        <item index="1" class="java.lang.String" itemvalue="Python.24_swap_nodes_in_pair" />
-        <item index="2" class="java.lang.String" itemvalue="Python.361_bomb_enemy" />
-        <item index="3" class="java.lang.String" itemvalue="Python.123_best_time_buy_sell_stock_III" />
-        <item index="4" class="java.lang.String" itemvalue="Python.121_best_time_sell_buy_stock" />
+        <item index="0" class="java.lang.String" itemvalue="Python.86_partition_list" />
+        <item index="1" class="java.lang.String" itemvalue="Python.92_reverse_linked_list_II" />
+        <item index="2" class="java.lang.String" itemvalue="Python.24_swap_nodes_in_pair" />
+        <item index="3" class="java.lang.String" itemvalue="Python.361_bomb_enemy" />
+        <item index="4" class="java.lang.String" itemvalue="Python.123_best_time_buy_sell_stock_III" />
       </list>
     </recent_temporary>
   </component>
@@ -474,15 +486,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="23" width="1540" height="719" extended-state="0" />
+    <frame x="56" y="28" width="1176" height="719" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22119816" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.046104927" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23847377" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -521,13 +533,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/String/5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03409091">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Array/245_shortest_word_distanceIII.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7714286">
@@ -883,8 +888,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/List/92_reverse_linked_list_II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15734266">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="140" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="146" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/List/86_partition_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7184035">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
           <folding />
         </state>
       </provider>
