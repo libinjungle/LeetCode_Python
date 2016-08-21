@@ -21,7 +21,7 @@ class Solution(object):
     for i, item in enumerate(heights):
       #print(i, item)
       stack = [inum for inum in stack if inum[1] < item]
-
+      # need to store index as element of key, because heights may have duplicate height.
       rect_map[(i, str(item))] = {}
       if not stack:
         rect_map[(i, str(item))]["left"] = -1
